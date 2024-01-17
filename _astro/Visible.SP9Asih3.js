@@ -1,0 +1,1 @@
+import{h as o}from"./hooks.module.fuNvVxED.js";import{u as e}from"./jsxRuntime.module.l3srneSq.js";import"./preact.module.nRdpJdZK.js";function l(){const[r,t]=o(42);return e("div",{className:"border p-6",children:[e("div",{className:"text-lg",children:r}),e("button",{onClick:()=>t(r+1),className:"border p-4 bg-red-500",children:"Increment"})]})}export{l as default};
